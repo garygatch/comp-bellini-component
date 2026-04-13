@@ -27,7 +27,13 @@
         "variable": "",
         "trackByIndex": false
       },
-      "styles": [],
+      "styles": [
+        {
+          "property": "--bln-breadcrumbs-bg-color",
+          "value": "#cdb2b2",
+          "enabled": true
+        }
+      ],
       "children": [],
       "comments": "",
       "type": "core-component",
